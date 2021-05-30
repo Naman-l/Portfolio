@@ -6,7 +6,7 @@ const projects = [
       "Realtime access to prices of over 250 crypto currencies using Coinbase Pro",
     tools: ["React", "CSS", "webSockets"],
     github: "https://github.com/Naman-l/cryptoprice-tracker",
-    link: "http://cryptoprice-tracker.vercel.app/",
+    link: "http://cryptopricetracker.vercel.app/",
   },
   {
     title: "Twitter Clone",
