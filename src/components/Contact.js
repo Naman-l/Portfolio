@@ -31,7 +31,7 @@ const Contact = () => {
             </div>
             <div className="mr-4">
               <a
-                href="https://github.com/Naman-l"
+                href="https://twitter.com/the_growing_up"
                 target="_blank"
                 rel="noreferrer"
               >
