@@ -13,7 +13,7 @@ const projects = [
     image: "/images/twitterClone.png",
     description:
       "Twitter UI clone,frontend clone but maintains a realtime database if anyone tweets",
-    tools: ["React", "CSS", "firebase", "API", "Tailwind", "axios"],
+    tools: ["React", "CSS", "firebase", "Tailwind"],
     github: "https://github.com/Naman-l/twitter-clone",
     link: "https://twitter-clone-38274.web.app/",
   },
