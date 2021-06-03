@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "Crypto price Tracker",
-    image: "/images/coinbase.png",
+    image: "/images/tw.png",
     description:
       "Realtime access to prices of over 250 crypto currencies using Coinbase Pro",
     tools: ["React", "CSS", "webSockets"],
